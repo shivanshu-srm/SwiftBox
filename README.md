@@ -40,16 +40,6 @@ SwiftBox is built using a modern tech stack that includes:
 
 
 
-
-
----
-
-### Installation:
-
-To install SwiftBox, simply download the app from the Apple App Store on your iOS device. SwiftBox seamlessly integrates with your Apple account and other Apple services, ensuring a hassle-free setup process.
-
----
-
 ### Future Scope:
 
 1. **Global Expansion**: SwiftBox aims to expand its reach beyond borders, catering to diverse cultural and linguistic preferences worldwide.
