@@ -8,6 +8,14 @@ Welcome to SwiftBox, your premier email management solution designed exclusively
 
 ---
 
+
+### Demo Video:
+
+
+
+
+---
+
 ### Features:
 
 1. **Streamlined Categorization**: SwiftBox categorizes emails into Personal, Work, Summary, and Follow Up, simplifying your inbox and reducing clutter.
