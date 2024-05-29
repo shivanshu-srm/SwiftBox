@@ -11,7 +11,7 @@ Welcome to SwiftBox, your premier email management solution designed exclusively
 
 ### Demo Video:
 
-
+https://github.com/shivanshu-srm/SwiftBox/issues/2#issue-2323975876
 
 
 ---
